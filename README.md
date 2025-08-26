@@ -1,2 +1,2 @@
-# feline-predictive-modeling
-Modeling to predict phenotypical expressions of DNA Polymorphisms in cats
+# animal-predictive-modeling
+Modeling to predict phenotypical expressions of DNA Polymorphisms in animal
